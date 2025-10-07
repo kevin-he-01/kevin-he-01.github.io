@@ -1,0 +1,22 @@
+.venue {
+    margin-right: 2em;
+}
+
+.paper.venue {
+    font-weight: bold;
+    color: var(--paper-venue-color);
+}
+
+.paperinfo {
+    margin-top: 0.5em;
+}
+
+.distinction {
+    margin-bottom: 0.75em;
+    color: var(--distinction-color);
+}
+
+.distinction > a {
+    color: inherit;
+    text-decoration: none;
+}

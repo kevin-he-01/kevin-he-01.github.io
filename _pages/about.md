@@ -7,11 +7,41 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [EECS department at MIT](https://www.eecs.mit.edu/), specifically [CSAIL](https://www.csail.mit.edu/), where I am fortunate to be advised by [Srini Devadas](https://people.csail.mit.edu/devadas/). Previously, I earned my B.S. degree in Computer Engineering from [UC San Diego](https://ucsd.edu/), where I conducted undergraduate research under the supervision of [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah/).
+I am a Ph.D. student in the [EECS department at MIT](https://www.eecs.mit.edu/), specifically [CSAIL](https://www.csail.mit.edu/), where I am fortunate to be advised by [Srini Devadas](https://people.csail.mit.edu/devadas/). Previously, I earned my bachelor's degree (B.S.) in Computer Engineering from [UC San Diego](https://ucsd.edu/), where I am fortunate to conduct research under the supervision of [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah/).
 
-I am broadly interested in **applied cryptography**. My current research focuses on making theoretical cryptographic constructs practically efficient and applicable to real-world scenarios.
+I am broadly interested in **applied cryptography**. I construct efficient cryptographic tools to enhance the security and privacy of everyone.
 
-For more details, please take a look at my [CV](/files/cv.pdf).
+## Publications
+
+- **Concretely-Efficient Multi-Key Homomorphic Secret Sharing and Applications**  
+  <u>Kaiwen He</u>, Sacha Servan-Schreiber, Geoffroy Couteau, and Srinivas Devadas
+  <div class='paperinfo'>
+  <span class='paper venue'>S&P 2026</span>
+  <a href="https://github.com/kevin-he-01/mkhss">Code</a>
+  </div>
+- **Passive SSH Key Compromise via Lattices**  
+  Keegan Ryan, <u>Kaiwen He</u>, George Arnold Sullivan, and Nadia Heninger
+  <div class='paperinfo'>
+  <span class='paper venue'>CCS 2023</span>
+  <a href="https://eprint.iacr.org/2023/1711.pdf">Paper</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/kevin-he-01/zgrab2/">IPsec Module Code</a>
+  </div>
+- **Critique of: “A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery” by SCC Team from UC San Diego**  
+  Arunav Gupta, John Ge, John Li, Zihao Kong, <u>Kaiwen He</u>, Matthew Mikhailov, Bryan Chin, Xiaochen Li, Max Apodaca, Paul Rodriguez, Mahidar Tatineni, Mary Thomas, and Santosh Bhatt
+  <div class='paperinfo'>
+  <span class='paper venue'>TPDS 2022</span>
+  <a href="https://ieeexplore.ieee.org/iel7/71/10123122/09933728.pdf">Paper</a>
+  </div>
+
+## Talks
+
+- **Passive SSH Key Compromise via Lattices**  
+  - <span class='talk venue'>[CSAW 2024](https://www.csaw.io/), New York, NY, November 2024</span>
+  [Poster](/files/posters/csaw24-ssh-lattice-attack.pdf)
+    <div class='distinction'>🏆&nbsp;<a href='https://docs.google.com/presentation/d/1c_uTTnirDmpTdkZ3G1EWyp9mGbYwu2Bb/edit?slide=id.g31360e400fb_14_51#slide=id.g31360e400fb_14_51'>Most Notable Paper: Technical Impact</a></div>
+  - <span class='talk venue'>[CCS 2023](https://www.sigsac.org/ccs/CCS2023/), Copenhagen, Denmark, November 2023</span>
+  [Slides](/files/slides/ccs23-ssh-lattice-attack.pdf)
 
 <!-- A data-driven personal website
 ======
