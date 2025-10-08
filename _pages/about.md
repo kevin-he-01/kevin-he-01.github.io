@@ -17,6 +17,8 @@ I am broadly interested in **applied cryptography**. I construct efficient crypt
   <u>Kaiwen He</u>, Sacha Servan-Schreiber, Geoffroy Couteau, and Srinivas Devadas
   <div class='paperinfo'>
   <span class='paper venue'>S&P 2026</span>
+  <a href="https://eprint.iacr.org/2025/1803.pdf">Paper</a>
+  &nbsp;•&nbsp;
   <a href="https://github.com/kevin-he-01/mkhss">Code</a>
   </div>
 - **Passive SSH Key Compromise via Lattices**  
