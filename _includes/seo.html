@@ -88,11 +88,24 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Kaiwen He",
+      "alternateName": "Kevin He",
+      "description": "Ph.D. student in Computer Science",
       "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "sameAs": [
+        "https://www.linkedin.com/in/kaiwen-he-73bb0120a/",
+        "https://scholar.google.com/citations?user=Zn6xrIsAAAAJ",
+        "https://orcid.org/0000-0003-0613-5208",
+        "https://github.com/kevin-he-01/",
+        "https://dblp.org/pid/259/2456-2.html"
+      ],
+      "affiliation": {
+        "@type": "CollegeOrUniversity",
+        "name": "Massachusetts Institute of Technology",
+        "alternateName": "MIT"
+      }
     }
   </script>
 {% endif %}

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kevin He"
+title                    : "Kaiwen (Kevin) He"
 title_separator          : "-"
 name                     : &name "Kaiwen (Kevin) He"
 description              : &description "Ph.D. student in Computer Science at MIT"
