@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [EECS department at MIT](https://www.eecs.mit.edu/), specifically [CSAIL](https://www.csail.mit.edu/), where I am fortunate to be advised by [Srini Devadas](https://people.csail.mit.edu/devadas/). Previously, I earned my bachelor's degree (B.S.) in Computer Engineering from [UC San Diego](https://ucsd.edu/), where I am fortunate to conduct research under the supervision of [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah/).
+I am a Ph.D. student at MIT, where I am fortunate to be advised by [Srini Devadas](https://people.csail.mit.edu/devadas/). Previously, I earned my bachelor's degree (B.S.) in Computer Engineering from [UC San Diego](https://ucsd.edu/), where I am fortunate to conduct research under the supervision of [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah/).
 
-I am broadly interested in **applied cryptography**. I construct efficient cryptographic tools to enhance the security and privacy of everyone.
+I am broadly interested in **applied cryptography**. My recent research (to appear at S&P 2026) made multi-key homomorphic secret sharing practical for the first time, using a key insight that simplified the structure of encrypted data. As an application, it unlocked a broad class of efficient two-party key exchange protocols based on fuzzy matching of passwords or other shared properties. Unlike prior solutions, each party can go offline during the protocol.
 
 ## Publications
 

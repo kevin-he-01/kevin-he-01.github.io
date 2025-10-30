@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kaiwen He"
+title                    : "Kevin He"
 title_separator          : "-"
-name                     : &name "Kaiwen He"
+name                     : &name "Kaiwen (Kevin) He"
 description              : &description "Ph.D. student in Computer Science at MIT"
 url                      : https://kevin-he-01.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ repository               : "kevin-he-01/kevin-he-01.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Kaiwen He"
+  name             : "Kaiwen (Kevin) He"
   pronouns         : # example: "she/her"  
-  bio              : "a.k.a. Kevin"
+  bio              : "Ph.D. student in Computer Science"
   location         : "Cambridge, MA"
   employer         : "MIT"
   uri              : # URL
@@ -160,6 +160,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - googled5dbebbc684568a5.html
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
