@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at MIT, where I am fortunate to be advised by [Srini Devadas](https://people.csail.mit.edu/devadas/). Previously, I earned my bachelor's degree (B.S.) in Computer Engineering from [UC San Diego](https://ucsd.edu/), where I am fortunate to conduct research under the supervision of [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah/).
+I am Kevin He (also known by Kaiwen He), a Ph.D. student in Computer Science at MIT, where I am fortunate to be advised by Srini Devadas. Previously, I earned my bachelor's degree in Computer Engineering from UC San Diego, where I was fortunate to work with Nadia Heninger.
 
-I am broadly interested in **applied cryptography**. My recent research (to appear at S&P 2026) made multi-key homomorphic secret sharing practical for the first time, using a key insight that simplified the structure of encrypted data. As an application, it unlocked a broad class of efficient two-party key exchange protocols based on fuzzy matching of passwords or other shared properties. Unlike prior solutions, each party can go offline during the protocol.
+I am broadly interested in **applied cryptography**. I recently developed the first [practical implementation](https://github.com/kevin-he-01/mkhss) of [multi-key homomorphic secret sharing](https://eprint.iacr.org/2025/1803.pdf), with a 45× speedup over prior work. As a bonus, it uncovers a structural simplification that could be of independent interest.
 
 ## Publications
 
@@ -20,6 +20,8 @@ I am broadly interested in **applied cryptography**. My recent research (to appe
   <a href="https://eprint.iacr.org/2025/1803.pdf">Paper</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/kevin-he-01/mkhss">Code</a>
+  &nbsp;•&nbsp;
+  <a href="/files/slides/cis25-mkhss.pdf">Slides</a>
   </div>
 - **Passive SSH Key Compromise via Lattices**  
   Keegan Ryan, <u>Kaiwen He</u>, George Arnold Sullivan, and Nadia Heninger
@@ -28,6 +30,8 @@ I am broadly interested in **applied cryptography**. My recent research (to appe
   <a href="https://eprint.iacr.org/2023/1711.pdf">Paper</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/kevin-he-01/zgrab2/">IPsec Module Code</a>
+  &nbsp;•&nbsp;
+  <a href="/files/slides/ccs23-ssh-lattice-attack.pdf">Slides</a>
   </div>
 - **Critique of: “A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery” by SCC Team from UC San Diego**  
   Arunav Gupta, John Ge, John Li, Zihao Kong, <u>Kaiwen He</u>, Matthew Mikhailov, Bryan Chin, Xiaochen Li, Max Apodaca, Paul Rodriguez, Mahidar Tatineni, Mary Thomas, and Santosh Bhatt
@@ -38,6 +42,10 @@ I am broadly interested in **applied cryptography**. My recent research (to appe
 
 ## Talks
 
+- **Concretely-Efficient Multi-Key Homomorphic Secret Sharing and Applications**
+  - <span class='talk venue'>[MIT CIS Seminar](https://cis.csail.mit.edu/), Cambridge, MA, December 2024</span>
+  [Slides](/files/slides/cis25-mkhss.pdf)  
+    Joint talk with Lali Devadas.
 - **Passive SSH Key Compromise via Lattices**  
   - <span class='talk venue'>[CSAW 2024](https://www.csaw.io/), New York, NY, November 2024</span>
   [Poster](/files/posters/csaw24-ssh-lattice-attack.pdf)
