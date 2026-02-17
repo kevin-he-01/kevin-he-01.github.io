@@ -43,10 +43,12 @@ I am broadly interested in **applied cryptography**. I recently developed the fi
 ## Talks
 
 - **Concretely-Efficient Multi-Key Homomorphic Secret Sharing and Applications**
-  - <span class='talk venue'>[MIT CIS Seminar](https://cis.csail.mit.edu/), Cambridge, MA, December 2024</span>
-  [Slides](/files/slides/cis25-mkhss.pdf)  
-    Joint talk with Lali Devadas.
-- **Passive SSH Key Compromise via Lattices**  
+  - <span class='talk venue'>Google, New York, NY, January 2026</span>
+  - <span class='talk venue'>[Berkeley Security Seminar](https://security.cs.berkeley.edu/seminar/current.html), Berkeley, CA, January 2026</span>
+  - <span class='talk venue'>UCSD Security Seminar, La Jolla, CA, January 2026</span>
+  - <span class='talk venue'>[MIT CIS Seminar](https://cis.csail.mit.edu/) (with [Lali Devadas](https://www.lalidevadas.com/)), Cambridge, MA, December 2025</span>
+  [Slides](/files/slides/cis25-mkhss.pdf)
+- **Passive SSH Key Compromise via Lattices**
   - <span class='talk venue'>[CSAW 2024](https://www.csaw.io/), New York, NY, November 2024</span>
   [Poster](/files/posters/csaw24-ssh-lattice-attack.pdf)
     <div class='distinction'>🏆&nbsp;<a href='https://docs.google.com/presentation/d/1c_uTTnirDmpTdkZ3G1EWyp9mGbYwu2Bb/edit?slide=id.g31360e400fb_14_51#slide=id.g31360e400fb_14_51'>Most Notable Paper: Technical Impact</a></div>
