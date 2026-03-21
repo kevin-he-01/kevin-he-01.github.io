@@ -11,6 +11,10 @@ I am Kevin He (also known by Kaiwen He), a Ph.D. student in Computer Science at 
 
 I am broadly interested in **applied cryptography**. I recently developed the first [practical implementation](https://github.com/kevin-he-01/mkhss) of [multi-key homomorphic secret sharing](https://eprint.iacr.org/2025/1803.pdf), with a 45× speedup over prior work. As a bonus, it uncovers a structural simplification that could be of independent interest.
 
+📰 **News**  
+- I am selected as a finalist for the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america), along with [Tianyao Gu](https://gty929.github.io/)!
+- I will be visiting Aarhus University during summer 2026 for [MPC in the Wild](https://mpcinthewild.github.io/)!
+
 ## Publications
 
 - **Concretely-Efficient Multi-Key Homomorphic Secret Sharing and Applications**  
@@ -34,7 +38,7 @@ I am broadly interested in **applied cryptography**. I recently developed the fi
   <a href="/files/slides/ccs23-ssh-lattice-attack.pdf">Slides</a>
   </div>
 - **Critique of: “A Parallel Framework for Constraint-Based Bayesian Network Learning via Markov Blanket Discovery” by SCC Team from UC San Diego**  
-  Arunav Gupta, John Ge, John Li, Zihao Kong, <u>Kaiwen He</u>, Matthew Mikhailov, Bryan Chin, Xiaochen Li, Max Apodaca, Paul Rodriguez, Mahidar Tatineni, Mary Thomas, and Santosh Bhatt
+  A. Gupta, J. Ge, J. Li, Z. Kong, <u>Kaiwen He</u>, M. Mikhailov, B. Chin, X. Li, M. Apodaca, P. Rodriguez, M. Tatineni, M. Thomas, and S. Bhatt
   <div class='paperinfo'>
   <span class='paper venue'>TPDS 2022</span>
   <a href="https://ieeexplore.ieee.org/iel7/71/10123122/09933728.pdf">Paper</a>
@@ -43,9 +47,11 @@ I am broadly interested in **applied cryptography**. I recently developed the fi
 ## Talks
 
 - **Concretely-Efficient Multi-Key Homomorphic Secret Sharing and Applications**
+  - <span class='talk venue'>[Northeastern University](https://theory.khoury.northeastern.edu/seminar.html), Boston, MA, March 2026</span>
+  - <span class='talk venue'>[Boston University](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/), Boston, MA, February 2026</span>
   - <span class='talk venue'>Google, New York, NY, January 2026</span>
   - <span class='talk venue'>[Berkeley Security Seminar](https://security.cs.berkeley.edu/seminar/current.html), Berkeley, CA, January 2026</span>
-  - <span class='talk venue'>UCSD Security Seminar, La Jolla, CA, January 2026</span>
+  - <span class='talk venue'>UCSD Security Lunch, La Jolla, CA, January 2026</span>
   - <span class='talk venue'>[MIT CIS Seminar](https://cis.csail.mit.edu/) (with [Lali Devadas](https://www.lalidevadas.com/)), Cambridge, MA, December 2025</span>
   [Slides](/files/slides/cis25-mkhss.pdf)
 - **Passive SSH Key Compromise via Lattices**
