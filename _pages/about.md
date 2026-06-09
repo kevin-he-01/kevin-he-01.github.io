@@ -13,7 +13,7 @@ I am broadly interested in **applied cryptography**. I recently developed the fi
 
 📰 **News**  
 - I am a winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america), along with [Tianyao Gu](https://gty929.github.io/)!
-- I will be visiting Aarhus University during summer 2026 for [MPC in the Wild](https://mpcinthewild.github.io/)!
+- I am currently visiting Aarhus University for [MPC in the Wild](https://mpcinthewild.github.io/).
 
 ## Publications
 
