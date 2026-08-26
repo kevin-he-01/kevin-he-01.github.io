@@ -8,12 +8,11 @@ redirect_from:
 ---
 
 I am Kevin He (also known by Kaiwen He), a Ph.D. student in Computer Science at MIT, where I am fortunate to be advised by Srini Devadas. Previously, I earned my bachelor's degree in Computer Engineering from UC San Diego, where I was fortunate to work with Nadia Heninger.
+I am a recipient of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america), along with [Tianyao Gu](https://gty929.github.io/).
 
-I am broadly interested in **applied cryptography**. I recently developed the first [practical implementation](https://github.com/kevin-he-01/mkhss) of [multi-key homomorphic secret sharing](https://eprint.iacr.org/2025/1803.pdf), with a 45× speedup over prior work. As a bonus, it uncovers a structural simplification that could be of independent interest.
+I am interested in **secure multi-party computation (MPC)** and the application of homomorphic secret sharing techniques to MPC. I recently developed the first [practical implementation](https://github.com/kevin-he-01/mkhss) of [multi-key homomorphic secret sharing](https://eprint.iacr.org/2025/1803.pdf), with a 45× speedup over prior work. As a bonus, it uncovers a structural simplification that could be of independent interest.
 
-📰 **News**  
-- I am a winner of the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2026-north-america), along with [Tianyao Gu](https://gty929.github.io/)!
-- I am currently visiting Aarhus University for [MPC in the Wild](https://mpcinthewild.github.io/).
+Over summer 2026, I visited Aarhus University to investigate the [security of MPC in practice](https://mpcinthewild.github.io/).
 
 ## Publications
 
@@ -59,7 +58,10 @@ I am broadly interested in **applied cryptography**. I recently developed the fi
 
 ## Talks
 
+- **Dyad** (a new approach to multi-party computation)
+  - <span class='talk venue'>Aarhus University, Aarhus, Denmark, July 2026</span>
 - **Concretely-Efficient Multi-Key Homomorphic Secret Sharing and Applications**
+  - <span class='talk venue'>[Aarhus University](https://cs.au.dk/research/cryptography-and-cyber-security/seminar), Aarhus, Denmark, June 2026</span>
   - <span class='talk venue'>[S&P 2026](https://sp2026.ieee-security.org/program.html), San Francisco, CA, May 2026</span>
   - <span class='talk venue'>[Northeastern University](https://theory.khoury.northeastern.edu/seminar.html), Boston, MA, March 2026</span>
   - <span class='talk venue'>[Boston University](https://www.bu.edu/cs/research-groups/security/busec/busec-calendar/), Boston, MA, February 2026</span>
